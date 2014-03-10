@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">Xtreme Soundboard: Mario</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_home">Xtreme Soundboard: Mario</string>
+    
+    <style name="ButtonText">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#ffffff</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_margin">3dp</item>
+    <item name="android:textSize">15dp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:shadowColor">#000000</item>
+    <item name="android:shadowDx">1</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">2</item>
+	</style>
+	
+    <string-array name="menu">
+		<item>Ringtone</item>
+		<item>Alarm</item>
+		<item>Notification</item>
+	</string-array>
+	
+    
+    <string-array name="sounds">
+		<item>Stage Clear</item>
+		<item>World Clear</item>
+		<item>Running Out Of Time</item>
+		<item>Mario Dies</item>
+		<item>Game Over</item>
+		<item>1-Up</item>
+		<item>Bowser falls</item> 
+		<item>Bowser\'s fire</item>
+		<item>Brick smash</item> 
+		<item>Bump</item> 
+		<item>Coin</item> 
+		<item>Down the flagpole</item> 
+		<item>Fireball</item> 
+		<item>Fireworks</item> 
+		<item>Jump</item> 
+		<item>Pipe travel</item> 
+		<item>Power up</item> 
+		<item>Power-up appears</item> 
+		<item>Stomp</item> 
+		<item>Vine growing</item>
+	</string-array>
+    
+
+</resources>
